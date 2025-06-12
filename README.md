@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Marouane Mounir
 
-<!--
-**Marouanemounir/Marouanemounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Élève ingénieur à l'ENSET Mohammedia  
+☁️ Spécialité : Big Data & Cloud Computing  
+💡 Passionné par le développement web, les systèmes intelligents et l'innovation sociale  
+📍 Basé au Maroc
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Ce que je fais
+
+- 🌐 Développement **Full Stack** (Angular 17, Spring Boot 3, PostgreSQL, PrimeNG)
+- 💻 Projets Java : POO, JavaFX, exceptions, diagrammes UML, etc.
+- 📱 Créateur de **MaklarDar** – une app mobile pour soutenir les femmes marocaines à travers la cuisine 🥘
+- 🏆 Candidat au Prix du Maroc de la Jeunesse – Innovation Technologique
+
+---
+
+## 🧠 Technologies & outils
+
+![My Skills](https://skillicons.dev/icons?i=java,angular,spring,postgresql,html,css,js,python,github,git,linux)
+
+---
+
+## 📈 Stats GitHub
+
+![Marouane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marouanemounir&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanemounir&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/Marouanemounir) *(ou ajoute ton vrai lien ici si différent)*
+- ✉️ marouane.mounir@email.com *(remplace par ton email pro si tu veux le rendre public)*
+
+---
+
+> 🎯 *"Code it. Learn it. Pitch it. Win it."*
