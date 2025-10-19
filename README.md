@@ -66,7 +66,7 @@
 ### 🌐 Connecte-toi avec moi
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marouane-mounir" target="_blank"><img src="https://img.shields.io/badge/-Marouane%20Mounir-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marouane-mounir/" target="_blank"><img src="https://img.shields.io/badge/-Marouane%20Mounir-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mounirmarwane4@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/MarouaneMounir"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
 </p>
