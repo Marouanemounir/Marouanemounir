@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Élève Ingénieur en <b>Big Data & Cloud Computing</b> à l’<b>ENSET Mohammedia</b>  
-💻 Passionné par le <b>développement full-stack</b>, l’<b’intelligence artificielle</b> 
+💻 Passionné par le <b>développement full-stack</b>, l’<b>’intelligence artificielle</b> 
 🚀 Toujours en quête de nouveaux défis technologiques et projets innovants
 </p>
 
