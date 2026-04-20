@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Marouane%20Mounir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Big%20Data%20%26%20Cloud%20Engineering%20Student&descAlignY=55&descSize=20" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Marouane+Mounir)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Engineering+%7C+AI+Engineering+%7C+Cloud;Building+AI-powered+solutions+%F0%9F%A4%96;AWS+%26+Oracle+OCI+Certified+%E2%98%81%EF%B8%8F;Open+to+PFA+Internship+%E2%80%94+Jul%E2%80%93Aug+2026+%F0%9F%94%8D)](https://git.io/typing-svg)
 
@@ -144,13 +144,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Marouanemounir&theme=tokyonight&hide_border=false&border_color=0ea5e9" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marouanemounir&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=Marouanemounir&theme=tokyonight&hide_border=false&border_color=0ea5e9"/>
 
 </div>
 
@@ -183,7 +177,5 @@ me.say_hi()
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%99%8F+%7C+Let's+connect+and+build+together!"/>
 </div>
