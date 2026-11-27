@@ -1,181 +1,95 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Marouane+Mounir)
+<img src="./assets/profile-banner.svg" alt="Marouane Mounir — AI, Data and Cloud Engineering — open to PFE 2027" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Engineering+%7C+AI+Engineering+%7C+Cloud;Building+AI-powered+solutions+%F0%9F%A4%96;AWS+%26+Oracle+OCI+Certified+%E2%98%81%EF%B8%8F;Open+to+PFE+Internship+%E2%80%94+Jul%E2%80%93Aug+2026+%F0%9F%94%8D)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://linkedin.com/in/marouane-mounir">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mounirmarwane4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Marouanemounir">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Marouanemounir&style=for-the-badge&color=0ea5e9"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marouane-mounir)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:mounirmarwane4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Marouanemounir?tab=repositories)
 
 </div>
 
----
+## About me
 
-## 👨‍💻 About Me
+I'm a final-year **Big Data & Cloud Computing engineering student at ENSET Mohammedia, Morocco**, with internship experience in Generative AI and software engineering at Capgemini and full-stack development at NTT DATA.
 
-```python
-class MarouaneMounir:
-    def __init__(self):
-        self.name        = "Marouane Mounir"
-        self.role        = "Big Data & Cloud Engineering Student"
-        self.school      = "ENSET Mohammedia 🎓"
-        self.location    = "Casablanca, Morocco 🇲🇦"
-        self.experiences = ["Capgemini Morocco", "NTT DATA Morocco"]
-        self.certs       = ["Oracle OCI AI Foundations", "AWS Cloud Foundations"]
-        self.looking_for = "PFA Internship — Jul & Aug 2026 🔍"
+I enjoy building end-to-end systems that connect data pipelines, intelligent applications and cloud infrastructure. My current focus is on LLM-powered applications, multi-agent systems, retrieval-augmented generation (RAG) and scalable data architectures.
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something great.")
+**Currently seeking a final-year engineering internship (PFE 2027)** in AI Engineering, Data Engineering or Cloud & DevOps.
 
-me = MarouaneMounir()
-me.say_hi()
-```
+## Selected projects
 
----
+| Project | What it does | Core technologies |
+| :--- | :--- | :--- |
+| [InterviewAI](https://github.com/Marouanemounir/interview-ai-platform) | Multi-agent technical interview simulation with real-time voice and retrieval-based evaluation. | LangGraph, FastAPI, Next.js, Qdrant |
+| [EduTrack Analytics](https://github.com/Marouanemounir/edutrack-analytics) | Academic analytics lakehouse with automated bronze, silver and gold data pipelines. | Apache Airflow, Delta Lake, PostgreSQL |
+| [Taawun Maroc](https://github.com/Marouanemounir/Taawun-Maroc) | Multilingual, multi-agent humanitarian coordination platform for disaster relief. | Gemini API, React, Node.js |
+| [Azure CI/CD Pipeline](https://github.com/Marouanemounir/azure-devops-cicd-pipeline) | Container delivery pipeline with passwordless cloud authentication. | Azure Container Apps, Docker, GitHub Actions, OIDC |
+| [CloudRetail AWS](https://github.com/Marouanemounir/CloudRetail-AWS-Platform) | Cloud-native analytics API and infrastructure-as-code portfolio prototype. | Terraform, AWS ECS, RDS, FastAPI |
+| [AI Systems Benchmark Lab](https://github.com/Marouanemounir/AI-Systems-Benchmark-Lab) | Offline ML experimentation and prompt-routing research prototype. | Python, scikit-learn, pytest |
 
-## 🏆 Highlights
+[Explore all public repositories →](https://github.com/Marouanemounir?tab=repositories)
+
+## Experience
+
+| Organization | Experience | Focus |
+| :--- | :--- | :--- |
+| **Capgemini Morocco — LabIA** | Generative AI Intern · 2026 | Applied LLMs and intelligent solutions |
+| **Capgemini Morocco** | Software Engineering Intern · 2025 | Spring Boot, Angular, MySQL |
+| **NTT DATA Morocco** | Full-stack Development Internship · 2025 | Spring Boot, Angular, PostgreSQL, Docker |
+
+## Engineering toolkit
+
+| Domain | Technologies |
+| :--- | :--- |
+| **AI & Machine Learning** | Python · LangChain · LangGraph · RAG · LLMs · Qdrant · ChromaDB · scikit-learn · TensorFlow |
+| **Data Engineering** | SQL · Apache Spark · Kafka · Airflow · Hadoop · Delta Lake · Pandas |
+| **Cloud & DevOps** | AWS · Azure · Oracle OCI · Docker · Kubernetes · Terraform · Jenkins · GitHub Actions · n8n |
+| **Software Engineering** | Java · Spring Boot · FastAPI · REST APIs · Angular · React · Next.js · TypeScript |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
 
 <div align="center">
 
-| 🥉 | **3rd Place** — ENSET Challenge Hackathon 2026 |
-|:---:|:---|
-| 🤖 | **Taawun Maroc** — Multi-agent AI platform (Gemini API) · Google Developer Competition |
-| ☁️ | **AWS Architecture** — Full production deployment: multi-AZ VPC, ALB, bastion, React |
-| 📜 | **Oracle OCI AI Foundations** + **AWS Cloud Foundations** Certified |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,ts,fastapi,spring,react,nextjs,angular,postgres,mongodb,aws,azure,docker,kubernetes,terraform,githubactions,git,linux&amp;theme=dark&amp;perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,fastapi,spring,react,nextjs,angular,postgres,mongodb,aws,azure,docker,kubernetes,terraform,githubactions,git,linux&amp;theme=light&amp;perline=9" alt="Selected programming, data, cloud and DevOps tools"/>
+</picture>
 
 </div>
 
----
+## Achievements & credentials
 
-## 🛠️ Tech Stack
+- **3rd place** — ENSET Challenge Hackathon 2026
+- **Google Developer Competition** — Taawun Maroc multi-agent AI project
+- **Oracle Cloud Infrastructure** — AI Foundations and Foundations
+- **AWS Academy Cloud Foundations**
+- **MongoDB** — Introduction to MongoDB
 
-### 🤖 AI · ML · Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### ☁️ Cloud · Big Data · DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-</p>
-
-### 🌐 Full Stack Development
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
+## GitHub activity
 
 <div align="center">
 
-<a href="https://github.com/Marouanemounir/Taawun-Maroc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouanemounir&repo=Taawun-Maroc&theme=tokyonight&border_color=0ea5e9"/>
-</a>
-<a href="https://github.com/Marouanemounir/Prediction-de-Salaire-IT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouanemounir&repo=Prediction-de-Salaire-IT&theme=tokyonight&border_color=0ea5e9"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Marouanemounir&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true"/>
+  <img height="165" alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=Marouanemounir&amp;show_icons=true&amp;theme=default&amp;hide_border=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanemounir&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"/>
+  <img height="165" alt="Languages used across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanemounir&amp;layout=compact&amp;theme=default&amp;hide_border=true"/>
+</picture>
 
-</div>
-
----
-
-## 💼 Experience
-
-<table>
-  <tr>
-    <td><b>🏢 Company</b></td>
-    <td><b>📌 Role</b></td>
-    <td><b>📅 Period</b></td>
-    <td><b>🛠️ Stack</b></td>
-  </tr>
-  <tr>
-    <td><b>Capgemini Morocco</b></td>
-    <td>Software Engineering Intern</td>
-    <td>Jul. 2025</td>
-    <td>Spring Boot · Angular · MySQL</td>
-  </tr>
-  <tr>
-    <td><b>NTT DATA Morocco</b></td>
-    <td>Full Stack Developer</td>
-    <td>Apr–May 2025</td>
-    <td>Spring Boot · Angular · PostgreSQL · Docker</td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Marouanemounir&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&border_color=0ea5e9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanemounir&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&border_color=0ea5e9" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Marouanemounir&theme=tokyonight&hide_border=false&border_color=0ea5e9"/>
-
-</div>
-
----
-
-## 🎓 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle_OCI_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_OCI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB_Introduction-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## 🔍 Open to Opportunities
-
-<div align="center">
-
-> 💼 **Looking for a PFA Internship — July & August 2026**
->
-> Data Engineering · Data Science · Machine Learning · Deep Learning
-> Generative AI · Agentic AI · MLOps · DevOps · Cloud Computing
->
-> 📩 **mounirmarwane4@gmail.com** · 🔗 **[linkedin.com/in/marouane-mounir](https://linkedin.com/in/marouane-mounir)**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Marouanemounir&amp;theme=github-dark-blue&amp;hide_border=true"/>
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Marouanemounir&amp;theme=default&amp;hide_border=true"/>
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%99%8F+%7C+Let's+connect+and+build+together!"/>
+
+**Interested in building intelligent, reliable systems together?**
+
+[Connect on LinkedIn](https://linkedin.com/in/marouane-mounir) · [Get in touch](mailto:mounirmarwane4@gmail.com)
+
 </div>
