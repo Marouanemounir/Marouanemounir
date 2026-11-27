@@ -2,7 +2,7 @@
 
 ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Marouane+Mounir)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Engineering+%7C+AI+Engineering+%7C+Cloud;Building+AI-powered+solutions+%F0%9F%A4%96;AWS+%26+Oracle+OCI+Certified+%E2%98%81%EF%B8%8F;Open+to+PFA+Internship+%E2%80%94+Jul%E2%80%93Aug+2026+%F0%9F%94%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Engineering+%7C+AI+Engineering+%7C+Cloud;Building+AI-powered+solutions+%F0%9F%A4%96;AWS+%26+Oracle+OCI+Certified+%E2%98%81%EF%B8%8F;Open+to+PFE+Internship+%E2%80%94+Jul%E2%80%93Aug+2026+%F0%9F%94%8D)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/marouane-mounir">
